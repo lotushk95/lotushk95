@@ -26,4 +26,4 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-![Hibiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotushk95&count_private=true&show_icons=true&theme=cobalt&hide=stars,commits,prs,issues,contribs)
+![Hibiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotushk95&count_private=true&show_icons=true&theme=dark)
