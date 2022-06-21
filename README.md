@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </p>
 
 ![Hibiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotushk95&count_private=true&show_icons=true&theme=dark&title_color=3c89d6&text_color=32a88f&icon_color=3c89d6)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotushk95&layout=compact&show_icons=true&count_private=true&theme=dark&title_color=3c89d6&text_color=32a88f)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lotushk95&count_private=true&layout=compact&show_icons=true&theme=dark&title_color=3c89d6&text_color=32a88f)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lotushk95&repo=CoUniVa-JPHACKS2021)
