@@ -25,4 +25,5 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/lotushk95?label=follow&logo=github&style=flat" />
   </a>
 </p>
-![Hibiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotushk95&count_private=true&show_icons=true&theme=radical))
+
+[![Hibiki's GitHub stats](https://github-readme-stats.vercel.app/api?username=lotushk95&count_private=true&show_icons=true&theme=radical))
