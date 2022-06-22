@@ -25,10 +25,11 @@ Here are some ideas to get you started:
     <img height="20" src="https://img.shields.io/github/followers/lotushk95?label=follow&logo=github&style=flat" />
   </a>
 </p>
-
+<p align="left>
 <a href="https://github.com/lotushk95/github-readme-stats">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=lotushk95&count_private=true&show_icons=true&theme=dark&title_color=3c89d6&text_color=32a88f&icon_color=3c89d6" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=lotushk95&count_private=true&show_icons=true&theme=dark&title_color=3c89d6&text_color=32a88f&icon_color=3c89d6" />
 </a>
 <a href="https://github.com/lotushk95/github-readme-stats">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotushk95&count_private=true&theme=dark&title_color=3c89d6&text_color=32a88f&icon_color=3c89d6&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lotushk95&count_private=true&theme=dark&title_color=3c89d6&text_color=32a88f&icon_color=3c89d6&layout=compact" />
 </a>
+<p/>
