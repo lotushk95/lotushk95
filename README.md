@@ -1,1 +1,1 @@
-### Hi there 👋　I'm Hibiki Koishikawa.
+### Hi there 👋 I'm Hibiki Koishikawa.
